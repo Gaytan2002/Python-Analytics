@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("pathname.csv")
+df = pd.read_csv("dta.csv")
 
 print("Preview of the Dataset:")
 print(df.head())
