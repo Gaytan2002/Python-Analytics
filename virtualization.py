@@ -2,7 +2,7 @@ import pandas as pd
 
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("dta.csv")
+df = pd.read_csv("dta.csv") #copy/paste file name to insert full path
 
 plt.figure(figsize=(10, 5))
 plt.bar(df["Country"], df["Emissions"], color="blue")
