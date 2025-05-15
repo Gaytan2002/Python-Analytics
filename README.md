@@ -21,15 +21,4 @@ By completing this workshop, students will learn how to:
 - Matplotlib
 - Jupyter Notebook
 
----
-
-## 🗂️ Project Structure
-data-analytics-workshop/
-├── data/
-│   └── sample_dataset.csv             # Example CSV dataset used in the workshop
-│
-├── notebooks/
-│   └── data_analysis_workshop.ipynb   # Main Jupyter Notebook for the workshop
-│
-├── requirements.txt                   # List of Python dependencies
-└── README.md                          # Project documentation (this file)
+___
