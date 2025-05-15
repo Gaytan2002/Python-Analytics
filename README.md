@@ -34,6 +34,5 @@ Install dependencies:
 pip install -r requirements.txt
 Open the notebook:
 jupyter notebook notebooks/data_analysis_workshop.ipynb
-
 👥 Audience
 This workshop is intended for beginner to intermediate Python learners, especially those interested in data science, research, or technical analytics roles.
