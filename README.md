@@ -22,3 +22,6 @@ By completing this workshop, students will learn how to:
 - Jupyter Notebook
 
 ___
+
+## 🐍 Click on link to follow along! 👇
+<a href="https://docs.google.com/document/u/0/d/1m4fH2Y1es2ZXhp2F7qtz214FirlWpTTNiOBKo5CwXxE/mobilebasic</a>
