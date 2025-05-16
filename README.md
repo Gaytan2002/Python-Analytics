@@ -24,4 +24,4 @@ By completing this workshop, students will learn how to:
 ___
 
 ## 🐍 Click on link to follow along! 👇
-"https://docs.google.com/document/u/0/d/1m4fH2Y1es2ZXhp2F7qtz214FirlWpTTNiOBKo5CwXxE/mobilebasic
+https://docs.google.com/document/u/0/d/1m4fH2Y1es2ZXhp2F7qtz214FirlWpTTNiOBKo5CwXxE/mobilebasic
